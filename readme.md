@@ -57,4 +57,4 @@ https://developers.google.com/identity/sms-retriever/request
 
 #### APK LINK
 
-https://drive.google.com/open?id=1P2IuC3OHos6NEuNUHMDVWVv-OZRHxFhZ
+https://smsalarm.page.link/Wcr6
